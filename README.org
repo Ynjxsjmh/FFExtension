@@ -1,0 +1,9 @@
+* Table of Contents                                                     :TOC_5:QUOTE:
+#+BEGIN_QUOTE
+- [[#altnumbertoswitchtabs][AltNumberToSwitchTabs]]
+#+END_QUOTE
+
+* AltNumberToSwitchTabs
+Use =Alt+number= to switch tabs.
+
+Inspired from https://gist.github.com/zbraniecki/000268ea27154bbccaad190dd479d226 in https://www.reddit.com/r/firefox/comments/6w9wub/how_to_use_ctrl19_to_switch_tabs_instead_of_alt19/
